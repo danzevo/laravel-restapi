@@ -17,5 +17,6 @@
 
 ## route
 1. route for login : localhost:8000/api/auth/login
-2. route for get laporan 1 with pagination : localhost:8000/api/laporan-1 
-3. route for get laporan 2 with pagination : localhost:8000/api/laporan-2 
+2. route for register : localhost:8000/api/auth/register
+3. route for get laporan 1 with pagination : localhost:8000/api/laporan-1 
+4. route for get laporan 2 with pagination : localhost:8000/api/laporan-2 
